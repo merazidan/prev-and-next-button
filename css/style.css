@@ -1,0 +1,32 @@
+
+.num{
+    width: 35px;
+    height: 35px;
+    margin: 38px;
+    border: 3px solid;
+    border-color: gray;
+    border-radius: 50%;
+   position: relative;
+}
+p{
+position: absolute;
+top: 50%;
+left: 50%;
+}
+ .steps{
+position: absolute;
+width:80px;
+height: 3px;
+background-color:gray;
+top: 50%;
+right: 100%;
+
+
+}
+
+.num-1{
+    border-color: rgb(50, 211, 211);
+}
+.step-0{
+  background-color: transparent;
+}
